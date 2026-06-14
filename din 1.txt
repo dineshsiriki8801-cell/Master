@@ -1,0 +1,13 @@
+“In my current role at Humana, I’ve been working on building Generative AI solutions, mainly focused on helping teams access and understand large volumes of healthcare data more efficiently.
+One of the key projects I worked on was developing a RAG-based system where users can ask questions in natural language and get accurate answers from internal documents and data sources. We handled things like document ingestion, chunking, embedding, and then retrieving relevant information to pass into the model.
+I was involved end-to-end — from designing the pipeline to integrating LLMs like ChatGPT and Claude, building backend APIs in Python, and making sure the system was scalable and reliable.
+
+We also worked a lot on prompt engineering and optimizing responses to reduce hallucinations and improve accuracy, especially since we were dealing with sensitive healthcare data.
+
+Overall, the goal was to make AI actually useful in real workflows, not just a prototype, and ensure it performs well in production.”
+
+🔥 Short Version (If Time is Less)
+
+“At Humana, I worked on a GenAI project where we built a RAG-based system for querying healthcare documents using natural language. I handled end-to-end development, including LLM integration, backend APIs, and optimizing performance for production use.”
+
+🚀 Add This Line (To Impress)
